@@ -1,0 +1,5 @@
+Ordem de precedência em expressões no Python:
+1 - Parênteses ()
+2 - Potência (**)
+3 - Multiplicação (*), Divisão (/), Divisão inteira (//), Resto da divisão inteira (%)
+4 - Adição (+) e Subtração (-)

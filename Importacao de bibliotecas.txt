@@ -1,0 +1,7 @@
+Se eu quiser importar uma biblioteca inteira:
+import <biblioteca>
+Se eu quiser importar apenas um item da biblioteca:
+from <biblioteca> import <item>
+Importar somente o item que eu vou usar torna o programa mais leve
+Posso importar dois ou mais itens da biblioteca também:
+from <biblioteca> import <item1>, <item2>, etc
